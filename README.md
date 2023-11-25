@@ -1,1 +1,1 @@
-[Live]https://kobakhachidze.github.io/Animated-Registration/
+[Live](https://kobakhachidze.github.io/Animated-Registration/)
